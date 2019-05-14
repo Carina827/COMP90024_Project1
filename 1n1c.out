@@ -1,0 +1,36 @@
+C2: 145096 posts,
+B2: 79633 posts,
+C3: 53299 posts,
+B3: 26550 posts,
+C4: 19699 posts,
+B1: 16507 posts,
+D4: 14497 posts,
+D3: 13388 posts,
+C1: 8427 posts,
+B4: 5450 posts,
+A3: 5037 posts,
+A2: 4165 posts,
+C5: 4106 posts,
+D5: 3248 posts,
+A1: 2533 posts,
+A4: 310 posts
+C2: ((#melbourne, 10385),(#australia, 1534),(#job, 1390),(#jobs, 964),(#hiring, 469))
+B2: ((#melbourne, 840),(#australia, 156),(#auspol, 148),(#brunswick, 94),(#fitzroy, 88))
+C3: ((#melbourne, 488),(#australia, 144),(#coffee, 102),(#oneorigin_specialtycoffee, 71),(#food, 70))
+B3: ((#melbourne, 168),(#australia, 60),(#fitness, 54),(#pocus, 50),(#fashion, 41),(#health, 41))
+C4: ((#alishas1million, 96),(#vote5sos, 85),(#melbourne, 82),(#auspol, 75),(#savedallas, 45))
+B1: ((#melbourne, 176),(#kca, 72),(#australia, 60),(#bds, 49),(#vote5sos, 43))
+D4: ((#nowplaying, 1730),(#melbourne, 30),(#job, 26),(#jobs, 22),(#smallzyvampsfirsttix, 20))
+D3: ((#melbourne, 80),(#beach, 59),(#summer, 29),(#australia, 23),(#followmenash, 21))
+C1: ((#camto4mill, 72),(#christmasfollowparty, 62),(#jamesyamm, 58),(#askbeau, 53),(#melbourne, 51))
+B4: ((#melbourne, 33),(#smallzywelcomeshome5sos, 26),(#fire, 19),(#vicfires, 19),(#socialmedia, 18))
+A3: ((#vicfires, 19),(#saveconstantine, 13),(#girls, 10),(#raw, 8),(#love, 8))
+A2: ((#krazykristmas, 165),(#egsholidaygiveaway, 57),(#rcl1milliongiveaway, 53),(#vdaywithbeth, 37),(#egholidaygiveaway, 31))
+C5: ((#melbourne, 53),(#australia, 17),(#dandenongs, 14),(#travel, 13),(#1000steps, 12))
+D5: ((#somebodytocon, 23),(#melbourne, 22),(#lost, 20),(#voteukvampettes, 18),(#kca, 12),(#findjasper, 12))
+A1: ((#melbourne, 14),(#tattoo, 11),(#worldjudo2014, 9),(#judo, 8),(#my, 8),(#design, 8),(#drawing, 8),(#vobis, 8))
+A4: ((#lnp, 4),(#qldvotes, 3),(#vicfires, 3),(#laughterclass, 2),(#mytribe, 2),(#birthday, 2),(#community, 2),(#joy, 2),(#market, 2))
+
+real	3m4.115s
+user	3m23.173s
+sys	0m5.814s
